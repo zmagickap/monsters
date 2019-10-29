@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zmagickap.github.io/monster-rolodex",
+  "homepage": "https://zmagickap.github.io/monsters",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
